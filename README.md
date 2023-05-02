@@ -19,7 +19,7 @@ para esto puedes usar " CTRL + Ñ " En teclados españoles " CTRL + ` " En tecla
 # ¿Qué cambio?
 
 * Se añadio normalize.css por defecto en index.css para asegurar que la visualización sea la misma en otros navegadores
-* Se eliminaron las hojas de estilo en cascada asi como otros elementos, esto sirve especialmente para aquellos que quieran hacer proyectos rápidos
+* Se eliminaron los estilos por defecto en las hojas de estilo en cascada asi como otros elementos, esto sirve especialmente para aquellos que quieran hacer proyectos rápidos
 * Se dejó intacto el contador y el favicon, a su vez se añadio un h1 con un ¡Hola mundo!, este ¡Hola mundo!, implementa una variable word que puede ser cambiada
 
 # ¿Cuál es el propósito de esto?

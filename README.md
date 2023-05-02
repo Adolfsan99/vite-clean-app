@@ -25,6 +25,8 @@ para esto puedes usar " CTRL + Ñ " En teclados españoles " CTRL + ` " En tecla
 # ¿Cual es el proposito de esto?
 
 * Clonar este repo y ejecutar solamente 2 comandos, en vez de 5
-* Facilitar la creacion de apps desde cero al reducir las distracciones en pantalla dejando lo importante
+* Facilitar la creacion de apps desde cero
+* Tener un proyecto lo más limpio posible
+* Reducir el numero de distracciones en pantalla dejando solo lo más importante
 
 <br>

@@ -25,8 +25,8 @@ para esto puedes usar " CTRL + Ñ " En teclados españoles " CTRL + ` " En tecla
 # ¿Cuál es el propósito de esto?
 
 * Clonar este repo y ejecutar solamente 2 comandos, en vez de 5
-* Facilitar la creación de apps desde cero
-* Tener un proyecto lo más limpio posible
+* Facilitar la creación de apps de React desde cero
 * Reducir el número de distracciones en pantalla dejando solo lo más importante
+* Tener un proyecto lo más limpio posible
 
 <br>
